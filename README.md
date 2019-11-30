@@ -13,5 +13,7 @@ Install:
     Safari: Install Tampermonkey.
     Firefox: Install Tampermonkey
 
-ALL: After installing the plugin, go to <a href="/ltchachee/PoE-onSale/raw/master/Poe-On-Sale%20Script.user.js"> Poe-On-Sale Script.user.js </a> to install. 
+ALL: After installing the plugin, go to 
+<a href="/ltchachee/PoE-onSale/raw/master/Poe-On-Sale%20Script.user.js"> Poe-On-Sale Script.user.js </a>
+to install. 
     
