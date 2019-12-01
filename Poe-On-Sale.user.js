@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Poe On Sale Script
 // @namespace    https://old.reddit.com/r/pathofexile/
-// @version      0.1
+// @version      0.2
 // @description  Showing items that are on sale in the store for saving l00ts
 // @author       You
 // @match        https://www.pathofexile.com/shop/category/*
 // @grant        none
+// Updated w/ s-mcardle's changes to set the "On-sale" as a toggle
 // ==/UserScript==
 
 var purchaseLink = document.getElementsByClassName("purchaseLink")[1];
