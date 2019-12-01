@@ -1,5 +1,5 @@
 # PoE-onSale
-Userscript for Path of Exile Microtransaction store showing on sale items.  This script creates a button on the page underneath the 
+Userscript for Path of Exile Microtransaction store showing on sale items.  This script creates a button on the page underneath the "Buy More" button at the top of the page.  Script has been updated thanks to s-mcardle to now be a toggle. 
 
 Created primarily for the /r/pathofexile community on Reddit.
 
